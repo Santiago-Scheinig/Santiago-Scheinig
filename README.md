@@ -101,32 +101,21 @@ Resource Management    (shared resources)
 
 ---
 
-## My work experience
+## My Experience
 
 I strongly belive the best way towards progress starts by recycling knowledge.
 
 <table align="center">
 <tr>
-<td align="left" width="58%">
+<td align="left" width="100%">
 
-### From Hospitality
-- **Time Management** - Delivering results under tight deadlines
-- **Attention to Detail** - Precision in high-pressure situations
-- **Team Collaboration** - Working effectively in diverse teams
-- **Problem Solving** - Quick thinking and adaptability
-- **Customer Focus** - Understanding end-user needs
-
-</td>
-<td align="left" width="42%">
-
-### To Development
-- Meeting sprint deadlines consistently
-- Writing clean comprehensive code
-- Contributing effectively to team projects
-- Debugging complex issues efficiently
-- Building user-centric applications
-
-</td>
+### From Hospitality to Development
+- **Time Management** - Delivering results under short time periods *|* Meeting deadlines consistently
+- **Attention to Detail** - Precision in high-pressure situations *|* Writing clean comprehensive code
+- **Team Collaboration** - Working effectively in diverse teams *|* Contributing effectively on team proyects
+- **Problem Solving** - Quick thinking and adaptability *|* Debbuging complex issues efficiently.
+- **Customer Focus** - Understanding end-user needs *|* Building user-centric applications
+  
 </tr>
 </table>
 
