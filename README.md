@@ -22,6 +22,8 @@ I'm a passionate junior developer specializing in **C programming**, with a stro
 
 <div align="center">
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Scheinig&layout=compact&theme=tokyonight&hide_border=true)
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -29,8 +31,6 @@ I'm a passionate junior developer specializing in **C programming**, with a stro
 ![Shell](https://img.shields.io/badge/Shell_(Basic)-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=cmake&logoColor=white)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Scheinig&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
