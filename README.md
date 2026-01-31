@@ -64,17 +64,6 @@ Resource Management    (shared resources)
 
 ## Featured Projects
 
-<div align="center">
-
-[![Minishell](https://github-readme-stats.vercel.app/api/pin/?username=Santiago-Scheinig&repo=minishell&theme=tokyonight&hide_border=true)](https://github.com/Santiago-Scheinig/minishell)
-[![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=Santiago-Scheinig&repo=philosophers&theme=tokyonight&hide_border=true)](https://github.com/Santiago-Scheinig/philosophers)
-[![Push_swap](https://github-readme-stats.vercel.app/api/pin/?username=Santiago-Scheinig&repo=push_swap&theme=tokyonight&hide_border=true)](https://github.com/Santiago-Scheinig/push_swap)
-[![FdF](https://github-readme-stats.vercel.app/api/pin/?username=Santiago-Scheinig&repo=fdf&theme=tokyonight&hide_border=true)](https://github.com/Santiago-Scheinig/fdf)
-
-</div>
-
-### Project Highlights
-
 | Project | Description | Key Technologies |
 |---------|-------------|------------------|
 | **🐚 Minishell** | Unix shell (bash) clone with process management and parsing | C, System Calls, Pipes, Redirections |
