@@ -12,7 +12,6 @@ I'm a passionate junior developer specializing in **C programming**, with a stro
 
 - Currently mastering **low-level programming** and **data structures**
 - Expanding my knowledge across different programming languages
-- Strong believer in clean code and efficient algorithms
 - Looking for opportunities to contribute and grow as a developer
 
 ---
