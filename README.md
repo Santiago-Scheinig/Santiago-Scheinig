@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a passionate junior developer specializing in **C programming**, with a strong foundation in systems programming and algorithmic thinking. After a decade in hospitality management, I've transitioned into software development, bringing valuable skills in multitasking, attention to detail, and working effectively under pressure.
+I'm a passionate junior developer specializing in **C programming**, with a strong foundation in systems programming and algorithmic thinking. After a decade in hospitality management, I've transitioned into software development, bringing trained skills in multitasking, attention to detail, and working effectively under pressure.
 
 - Currently mastering **low-level programming** and **data structures**
 - Expanding my knowledge across different programming languages
