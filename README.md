@@ -1,6 +1,6 @@
 <div align="center">
   
-# I'm Santiago Scheinig
+# I am Santiago Scheinig
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Junior+C+Developer;Problem+Solver)](https://git.io/typing-svg)
 
