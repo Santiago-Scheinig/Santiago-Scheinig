@@ -10,7 +10,7 @@
 
 I'm a passionate junior developer specializing in **C programming**, with a strong foundation in systems programming and algorithmic thinking. After a decade in hospitality management, I've transitioned into software development, bringing trained skills in multitasking, attention to detail, and working effectively under pressure.
 
-- Currently mastering **low-level programming** and **data structures**
+- Currently mastering **mid-level programming** and **data structures**
 - Expanding my knowledge across different programming languages
 - Looking for opportunities to contribute and grow as a developer
 
@@ -90,8 +90,6 @@ Resource Management    (shared resources)
 
 ## My Experience
 
-I strongly belive the best way towards progress starts by recycling knowledge.
-
 <table align="center">
 <tr>
 <td align="left" width="100%">
@@ -105,8 +103,6 @@ I strongly belive the best way towards progress starts by recycling knowledge.
   
 </tr>
 </table>
-
-"If we can't exploit what we've learned from previous experiences in future ones, we might as well be starting all over again."
 
 ---
 
