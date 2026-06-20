@@ -87,8 +87,6 @@ Resource Management    (shared resources)
 | **☀️ MiniRT**        | Ray tracer built in C using an object-oriented architecture with lighting, shadows, reflections, and geometric rendering | C, OOP Design, Linear Algebra, Ray Tracing |
 | **🐚 Minishell**     | Unix shell clone featuring process management, parsing, redirections, and pipelines                                      | C, System Calls, Pipes, Redirections       |
 | **🍽️ Philosophers** | Multithreaded implementation of the dining philosophers problem                                                          | C, Threads, Mutexes, Synchronization       |
-| **🔀 Push_swap**     | Optimized sorting algorithm using a constrained set of operations                                                        | C, Algorithms, Optimization                |
-| **🗺️ FdF**          | 3D wireframe map visualizer using projection and transformation mathematics                                              | C, Graphics, Mathematics                   |
 
 ---
 
