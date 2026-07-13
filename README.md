@@ -14,10 +14,10 @@ I enjoy designing modular, reusable, and maintainable codebases while continuous
 
 After more than a decade in hospitality management, I bring strong problem-solving, adaptability, and teamwork skills to software development.
 
-* Focused on software architecture, generic systems, and data structures
-* Exploring C++, design patterns, and object-oriented programming
-* Passionate about building scalable and reusable solutions
-* Always looking for opportunities to learn and contribute
+* Focused on software architecture, generic systems, and data structures.
+* Exploring C++, design patterns, and object-oriented programming.
+* Passionate about building scalable and reusable solutions.
+* Always looking for opportunities to learn and contribute.
 
 ---
 
