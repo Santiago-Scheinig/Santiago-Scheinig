@@ -12,9 +12,9 @@
 
 </div>
 
-  So, a bit about myself?
+  So, a bit about me?
 
-  Well, i recognize as a software developer specialized in **C**, **systems programming**, and **software architecture**. (Even if it's not too humble to say so by my own)
+  Well, i recognize as a software developer specialized in **C**, **systems programming**, and **software architecture**. (Even if it's not too humble to say so myself)
 
   I belive that the best things in life are the result of amazing, well thought systems which continiously run without failure, not because they can't fail, but because they are prepared to. And that code, applications and software also benefit from them.
 
