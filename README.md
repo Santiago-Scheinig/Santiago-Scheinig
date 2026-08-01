@@ -12,7 +12,7 @@
 
 </div>
 
-  So, a bit of myself?
+  So, a bit about myself?
 
   Well, i recognize as a software developer specialized in **C**, **systems programming**, and **software architecture**. (Even if it's not too humble to say so by my own)
 
