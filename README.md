@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi there! Welcome to have you around.
@@ -6,9 +7,9 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
-## I am Santiago Scheinig
+### I am Santiago Scheinig
 
 </div>
 
