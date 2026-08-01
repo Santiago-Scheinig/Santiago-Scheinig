@@ -1,14 +1,14 @@
 <div align="center">
 
-# I am Santiago Scheinig
+# Hi there! Welcome to have you around.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=900\&lines=Systems+Programmer+%7C+Software+Developer;Building+Modular+%26+Scalable+Software+Architectures)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
+<div align="left">
 
-## Hi there! Welcome to have you around.
+## I am Santiago Scheinig
 
 </div>
 
