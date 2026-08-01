@@ -17,16 +17,16 @@
 
   Well, i recognize as a software developer specialized in **C**, **systems programming**, and **software architecture**. (Even if it's not too humble to say so myself)
 
-  I belive that the best things in life are the result of amazing, well thought systems which continiously run without failure, not because they can't fail, but because they are prepared to. And that code, applications and software also benefit from them.
+  I believe that the best things in life are the result of amazing, well thought systems which continuously run without failure, not because they can't fail, but because they are prepared to. And that code, applications and software also benefit from them.
 
-  Really enjoy designing modular, reusable and maintainable codebases. And i'm currently and continuously expanding my knowledge through new technologies and programming paradigms, which leads me on how further beyond i understand this idea of **System**.
+  Really enjoy designing modular, reusable and maintainable codebases. And I'm currently and continuously expanding my knowledge through new technologies and programming paradigms, which leads me on how further beyond i understand this idea of **System**.
 
-  After more than a decade in hospitality management, i can confidently say i'm a great performer on any work enviroment, since certain skills and philosophies are great tools everywhere:
+  After more than a decade in hospitality management, i can confidently say I'm a great performer on any work environment, since certain skills and philosophies are great tools everywhere:
 
-* I'm responsable and comitted when achieving goals.
+* I'm responsible and committed when achieving goals.
 * I have a strong adaptability and flexibility when problem-solving.
 * I've learned and acknowledge the advantages of coordinating and cooperating with a team.
-* My work aproach is that of high efficiency that doesn't compromise neither quality nor precision of the proccess.
+* My work approach is that of high efficiency that doesn't compromise neither quality nor precision of the process.
 
 ---
 
