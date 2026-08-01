@@ -24,8 +24,8 @@
 
 * I'm responsable and comitted when achieving goals.
 * I have a strong adaptability and flexibility when problem-solving.
-* My work aproach is that of high efficiency that doesn't compromise neither quality nor precision of the proccess.
 * I've learned and acknowledge the advantages of coordinating and cooperating with a team.
+* My work aproach is that of high efficiency that doesn't compromise neither quality nor precision of the proccess.
 
 ---
 
