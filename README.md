@@ -6,7 +6,7 @@
 
 </div>
 
-<div align="left">
+<div align="center">
 
 ## I am Santiago Scheinig
 
