@@ -21,12 +21,12 @@
 
   Really enjoy designing modular, reusable and maintainable codebases. And I'm currently and continuously expanding my knowledge through new technologies and programming paradigms, which leads me on how further beyond i understand this idea of **System**.
 
-  After more than a decade in hospitality management, i can confidently say I'm a great performer in any work environment, since certain skills and philosophies are great tools everywhere:
+  After more than a decade in hospitality management, i can  confidently say I'm a great performer in any work environment, since  certain skills and philosophies are great tools everywhere: 
 
-* I'm responsible and committed when achieving goals.
-* I have a strong adaptability and flexibility when problem-solving.
-* I've learned and acknowledge the advantages of coordinating and cooperating with a team.
-* My work approach is that of high efficiency that doesn't compromise neither quality nor precision of the process.
+- I'm committed to achieving my goals.
+- I have a strong adaptability and flexibility when problem-solving under pressure.
+- I've learned the advantages that come from coordinating and cooperating with a team.
+- My work approach is that of high efficiency that doesn´t compromise neither quality nor precision of the process
 
 ---
 
