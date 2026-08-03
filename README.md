@@ -15,18 +15,18 @@
 
   So, a bit about me?
 
-  Well, i recognize as a software developer specialized in **C**, **systems programming**, and **software architecture**. (Even if it's not too humble to say so myself)
+  I consider myself a software developer specializing in **C**, **systems programming**, and **software architecture**.
 
-  I believe that the best things in life are the result of amazing, well thought systems which continuously run without failure, not because they can't fail, but because they are prepared to. And that code, applications and software also benefit from them.
+  I believe that the best things in life are the result of amazing, well-thought-out systems which continuously run without failure, not because they can't fail, but because they are prepared to. And that code, applications and software also benefit from them.
 
-  Really enjoy designing modular, reusable and maintainable codebases. And I'm currently and continuously expanding my knowledge through new technologies and programming paradigms, which leads me on how further beyond i understand this idea of **System**.
+  I really enjoy designing modular, reusable and maintainable codebases. And I'm continuously expanding my knowledge through new technologies and programming paradigms, which keeps broadening my understanding of what a system can be.
 
-  After more than a decade in hospitality, i can  confidently say I'm a great performer in any work environment, since  certain skills and philosophies are great tools everywhere: 
+  After more than a decade in hospitality, I can confidently say I'm a great performer in any work environment, since certain skills and philosophies are great tools everywhere: 
 
-- I'm committed to achieving my goals.
-- I have a strong adaptability and flexibility when problem-solving under pressure.
-- I've learned the advantages that come from coordinating and cooperating with a team.
-- My work approach is that of high efficiency that doesn´t compromise neither quality nor precision of the process
+- *I'm committed to achieving my goals.*
+- *I adapt quickly and stay effective when problem-solving under pressure.*
+- *I've learned the advantages that come from coordinating and cooperating with a team.*
+- *I strive for efficiency without compromising quality or precision.*
 
 ---
 
@@ -38,7 +38,7 @@
 
 ### Growth Through Complex Projects
 
-My projects have taken me from foundational C programming into designing modular systems and scalable architectures.
+My projects have taken me from foundational C programming into designing modular systems and scalable architectures. I enjoy working close to the machine because it forces me to understand the trade-offs behind every abstraction.
 
 <div align="center">
 
@@ -46,22 +46,16 @@ My projects have taken me from foundational C programming into designing modular
 
 </div>
 
-Through projects such as **MiniRT**, **Minishell**, and **Philosophers**, i've strengthened my understanding on several areas and developed skills that suited my passion when working with code:
+Through projects such as **MiniRT**, **Minishell**, and **Philosophers**, I've strengthened my understanding across several areas and developed skills that align with the kind of software engineering I enjoy most:
 
-* Modular and reusable software architecture
-* Object-oriented design principles in C
-* Systems programming and resource management
-* Mathematical problem solving and graphics programming
-* Concurrency and synchronization
-* Debugging, optimization, and maintainable code design
+* *Modular and reusable software architecture*
+* *Object-oriented design principles in C*
+* *Systems programming and resource management*
+* *Mathematical problem solving and graphics programming*
+* *Concurrency and synchronization*
+* *Debugging, optimization, and maintainable code design*
 
----
-
-<div align="center">
-
-## Me and AI
-
-</div>
+Right now I'm deepening my understanding of software architecture, modern C++, and system design while building projects that push me toward writing reusable, scalable software. My long-term goal is to become the kind of engineer who can design systems that remain simple to understand, maintain, and extend.
 
 ---
 
@@ -99,13 +93,11 @@ Through projects such as **MiniRT**, **Minishell**, and **Philosophers**, i've s
 
 | Project              | Description                                                                                                              | Key Technologies                           |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
-| **MiniRT**        | Ray tracer built in C using an object-oriented architecture with lighting, shadows, reflections, and geometric rendering | C, OOP Design, Linear Algebra, Ray Tracing |
-| **Minishell**     | Unix shell clone featuring process management, parsing, redirections, and pipelines                                      | C, System Calls, Pipes, Redirections       |
-| **Philosophers** | Multithreaded implementation of the dining philosophers problem                                                          | C, Threads, Mutexes, Synchronization       |
+| **[MiniRT](https://github.com/Santiago-Scheinig/miniRT)**        | Ray tracer built in C using an object-oriented architecture with lighting, shadows, reflections, and geometric rendering | C, OOP Design, Linear Algebra, Ray Tracing |
+| **[Minishell](https://github.com/Santiago-Scheinig/minishell)**     | Unix shell clone featuring process management, parsing, redirections, and pipelines                                      | C, System Calls, Pipes, Redirections       |
+| **[Philosophers](https://github.com/Santiago-Scheinig/philosophers)** | Multithreaded implementation of the dining philosophers problem                                                          | C, Threads, Mutexes, Synchronization       |
 
 </div>
-
-<div align="left">
 
 ### Currently Working on
 
@@ -116,6 +108,27 @@ Through projects such as **MiniRT**, **Minishell**, and **Philosophers**, i've s
 ![Learning](https://img.shields.io/badge/Building-Reusable_Systems-informational?style=for-the-badge\&color=FF6B6B) ![Learning](https://img.shields.io/badge/Deepening-Software_Architecture-informational?style=for-the-badge\&color=00599C) ![Learning](https://img.shields.io/badge/Studying-C++_Core-informational?style=for-the-badge\&logo=cplusplus\&logoColor=white\&color=00599C)
 
 ![Learning](https://img.shields.io/badge/Learning-Design_Patterns-informational?style=for-the-badge\&color=7F00FF) ![Learning](https://img.shields.io/badge/Learning-Advanced_Algorithms-informational?style=for-the-badge\&color=7F00FF) ![Learning](https://img.shields.io/badge/Learning-System_Design-informational?style=for-the-badge\&color=7F00FF)
+
+</div>
+
+<div align="left">
+
+### Me and AI
+
+My relationship with **Artificial Intelligence (AI)** resembles a construction site. It's like working with an experienced engineer: It knows an incredible amount about materials, structures, engineering practices, and construction techniques. If it doesn't know something, it can usually research it faster than I can. The more it evolves, the more capable and reliable it becomes.
+
+But it lacks *ownership*, *purpose*, *intent*... It can suggest solutions, but it doesn't decide what is worth building or why. That's why construction sites still need architects.
+
+An architect doesn't just know how to build a wall; they understand whether the wall should exist in the first place.
+That's how I see AI. It's an incredibly powerful engineering tool, but it's important not to forget that responsibility, judgment, and critical thinking remain essential when building a system.
+
+**For example,**
+
+Creating the "Bouncing Ball" animation in MiniRT required deciding which aspects of physics were worth modeling. The challenge wasn't writing the equations; it was knowing which details would make the animation feel believable rather than merely functional. And that comes from countless small decisions that aren't explicitly written in a prompt.
+
+**AI** remains an amazing tool and, like any other tool, it becomes far more valuable in the hands of someone who knows how to use it.
+It can help us build almost anything. 
+Now... Knowing what should be built and why remains our responsibility.
 
 </div>
 
