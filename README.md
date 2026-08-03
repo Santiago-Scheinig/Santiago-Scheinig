@@ -115,7 +115,7 @@ Right now I'm deepening my understanding of software architecture, modern C++, a
 
 ### Me and AI
 
-My relationship with **Artificial Intelligence (AI)** resembles a construction site. It's like working with an experienced engineer: It knows an incredible amount about materials, structures, engineering practices, and construction techniques. If it doesn't know something, it can usually research it faster than I can. The more it evolves, the more capable and reliable it becomes.
+My relationship with **Artificial Intelligence (AI)** resembles a construction site. it's like working with an experienced engineer: It knows an incredible amount about materials, structures, engineering practices, and construction techniques. If it doesn't know something, it can usually research it faster than I can. The more it evolves, the more capable and reliable it becomes.
 
 But it lacks *ownership*, *purpose*, *intent*... It can suggest solutions, but it doesn't decide what is worth building or why. That's why construction sites still need architects.
 
