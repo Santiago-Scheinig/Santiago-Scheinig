@@ -124,11 +124,11 @@ That's how I see AI. It's an incredibly powerful engineering tool, but it's impo
 
 **For example,**
 
-Creating the "Bouncing Ball" animation in MiniRT required deciding which aspects of physics were worth modeling. The challenge wasn't writing the equations; it was knowing which details would make the animation feel believable rather than merely functional. And that comes from countless small decisions that aren't explicitly written in a prompt.
+Creating the *Bouncing Ball* animation in MiniRT required deciding which aspects of physics were worth modeling. The challenge wasn't writing the equations; it was knowing which details would make the animation feel believable rather than merely functional. And that comes from countless small decisions that aren't explicitly written in a prompt.
 
 **AI** remains an amazing tool and, like any other tool, it becomes far more valuable in the hands of someone who knows how to use it.
 It can help us build almost anything. 
-Now... Knowing what should be built and why remains our responsibility.
+Yet, knowing what should be built and why remains our responsibility.
 
 </div>
 
