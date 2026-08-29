@@ -79,11 +79,10 @@ Right now I'm deepening my understanding of software architecture, modern C++, a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge\&logo=vim\&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge\&logo=cmake\&logoColor=white)
-
-![Shell](https://img.shields.io/badge/Shell_\(Basic\)-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![Unix/Linux](https://img.shields.io/badge/Unix/Linux_\(Basic\)-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge\&logo=vim\&logoColor=white)
+![Unix/Linux](https://img.shields.io/badge/Unix/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 </div>
 
@@ -105,7 +104,7 @@ Right now I'm deepening my understanding of software architecture, modern C++, a
 
 <div align="center">
 
-![Learning](https://img.shields.io/badge/Building-Reusable_Systems-informational?style=for-the-badge\&color=FF6B6B) ![Learning](https://img.shields.io/badge/Deepening-Software_Architecture-informational?style=for-the-badge\&color=00599C) ![Learning](https://img.shields.io/badge/Studying-C++_Core-informational?style=for-the-badge\&logo=cplusplus\&logoColor=white\&color=00599C)
+![Learning](https://img.shields.io/badge/Building-Reusable_Systems-informational?style=for-the-badge\&color=FF6B6B) ![Learning](https://img.shields.io/badge/Deepening-Software_Architecture-informational?style=for-the-badge\&color=00599C) ![Learning](https://img.shields.io/badge/Studying-Cybersecurity_Core-informational?style=for-the-badge\&logoColor=white\&color=00599C)
 
 ![Learning](https://img.shields.io/badge/Learning-Design_Patterns-informational?style=for-the-badge\&color=7F00FF) ![Learning](https://img.shields.io/badge/Learning-Advanced_Algorithms-informational?style=for-the-badge\&color=7F00FF) ![Learning](https://img.shields.io/badge/Learning-System_Design-informational?style=for-the-badge\&color=7F00FF)
 
